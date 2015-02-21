@@ -1,0 +1,5 @@
+name: RSTeamAPI
+main: jp.rs.rsteamapi.RSTeamAPI
+version: 1.0.0
+author: _RS_
+loadbefore: [RushHelper]
